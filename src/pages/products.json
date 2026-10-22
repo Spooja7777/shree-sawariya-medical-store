@@ -1,0 +1,314 @@
+[
+    {
+    "id": 1,
+    "name": "Himalaya Baby Kit 5-in-1",
+    "category": "Baby Care",
+    "image": "https://himalayawellness.in/cdn/shop/products/himalaya-baby-gift-pack-5-in-1.jpg?v=1622098709"
+  },
+  {
+    "id": 2,
+    "name": "Himalaya Baby Kit 7-in-1",
+    "category": "Baby Care",
+    "image": "https://himalayawellness.in/cdn/shop/products/himalaya-baby-gift-basket-7-in-1.jpg?v=1622100726"
+  },
+  {
+    "id": 3,
+    "name": "Pilgrim AHA/BHA Peeling Solution",
+    "category": "Personal Care",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Pilgrim Foundation",
+    "category": "Personal Care",
+    "image": ""
+  },
+ 
+  {
+    "id": 6,
+    "name": "Pilgrim Anti-Dandruff Shampoo",
+    "category": "Personal Care",
+    "image": "https://images-static.nykaa.com/media/catalog/product/9/f/9f89cddPILGR00000751.jpg?tr=w-500"
+  },
+  {
+    "id": 7,
+    "name": "Glocol 6",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Tretinoin",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "UV Edge Sunscreen SPF 50",
+    "category": "Personal Care",
+    "image": "src/images/uvedgesunscreen.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Minimalist Glycolic Acid",
+    "category": "Personal Care",
+    "image": "https://media.ulta.com/i/ulta/77009757?fmt=auto&h=600&w=600"
+  },
+  {
+    "id": 11,
+    "name": "Vitamin E Capsules",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "name": "Mintop Forte 5% Minoxidil",
+    "category": "Personal Care",
+    "image": "https://dermatics.in/cdn/shop/files/mintop_forte_5_pdp-01_a4353e31-52cb-4438-b1e3-9da623becdf6.webp?v=1728388555"
+  },
+  {
+    "id": 13,
+    "name": "Sanitary Pads",
+    "category": "Women Care",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "name": "Pee Safe Menstrual Cup",
+    "category": "Women Care",
+    "image": "https://www.peesafe.com/cdn/shop/files/AVPL_50N_MC_Medium_copy.jpg?v=1728974249&width=2048"
+  },
+  {
+    "id": 15,
+    "name": "Ghar Soap",
+    "category": "Personal Care",
+    "image": "src/images/GharSoap.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Tan-Removal Face Wash",
+    "category": "Personal Care",
+    "image": "src/images/GharSoapFaceWash.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Paracetamol",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "name": "ORS",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "name": "The Derma Co Kojic Acid Face Serum",
+    "category": "Personal Care",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "name": "WishCare Hair Growth Serum Concentrate",
+    "category": "Personal Care",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "name": "WishCare Niacinamide Oil Balance Fluid Sunscreen",
+    "category": "Personal Care",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "name": "Nat Habit Fresh Tikta Ubtan Face Wash",
+    "category": "Personal Care",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "name": "Paracetamol",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "name": "Ibuprofen",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "name": "Diclofenac",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "name": "Aceclofenac",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "name": "Amlodipine",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "name": "Telmisartan",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "name": "Atenolol",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "name": "Losartan",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "name": "Metformin",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "name": "Glimepiride",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "name": "Human Insulin Injection",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "name": "Omeprazole",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "name": "Pantoprazole",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "name": "Cetirizine",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "name": "Levocetirizine",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "name": "Amoxicillin",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "name": "Azithromycin",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "name": "Ciprofloxacin",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "name": "Atorvastatin",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "name": "Clotrimazole",
+    "category": "Medicines",
+    "image": ""
+  },
+  {
+    "id": 43,
+    "name": "Fluconazole",
+    "category": "Medicines",
+    "image": ""
+  }
+  
+,
+  {
+    "id": 44,
+    "name": "Himalaya Baby Lotion",
+    "category": "Baby Care",
+    "image": "https://himalayawellness.in/cdn/shop/files/BABY-LOTION-200ml-LABEL-_FOP-copy_1800x1800.jpg?v=1728024735&utm_source=chatgpt.com"
+  },
+  {
+    "id": 45,
+    "name": "Himalaya Baby Powder",
+    "category": "Baby Care",
+    "image": "https://himalayawellness.in/cdn/shop/files/7765523-3_Himalaya-BABY-POWDER-200g_FOP.jpg?v=1728021462"
+  },
+  {
+    "id": 46,
+    "name": "Himalaya Gentle Baby Soap",
+    "category": "Baby Care",
+    "image": "https://himalayawellness.in/cdn/shop/files/GENTLEBABYSOAP75GFRONT2INDIAIMSRGB_1800x1800.jpg?v=1764241758"
+  },
+  {
+    "id": 47,
+    "name": "Himalaya Baby Cream",
+    "category": "Baby Care",
+    "image": "https://himalayawellness.in/cdn/shop/files/7770896-1_Himalaya-BABY-CREAM-50ml-Tube_FOP_1800x1800.jpg?v=1728019004"
+  },
+  {
+    "id": 48,
+    "name": "Himalaya Baby Massage Oil",
+    "category": "Baby Care",
+    "image": "https://himalayawellness.in/cdn/shop/files/BABYMASSAGEOIL100MLINDIA14119IMSRGB1.jpg?v=1780547019"
+  },
+  {
+    "id": 50,
+    "name": "Johnson's Baby Powder",
+    "category": "Baby Care",
+    "image": "https://images.openai.com/static-rsc-4/HtzLYfSc1iKaSK7_48GTSEmSRhsYp7jKd68ls7cAq3tSKf2fuoSpe9-OYi1PZVy8xAN5xg68QygKKnVlX1yE2WntvYEMDvYKu6oFGfxEOzpyUg18tqJAqsFHniQ5xznsZwKV1bQYmUPuDrm9ODGBBhsyEwzytcEvfmdeJZ_WUzDaFyl2d1vcY8eQQfzVcwJL?purpose=fullsize"
+  },
+  {
+    "id": 51,
+    "name": "Johnson's Baby Cream",
+    "category": "Baby Care",
+    "image": "https://images.openai.com/static-rsc-4/Vwgwan9J7plrDJyo9tbq-MRTPYsmk5iqKyIE3GfYONGjj6wHN9qm2oXgbh4ms_Evc2fGPvI9W_DFFr46U7Pl0yoS6xkFnRPiNYK3DMOgvdfKX0TRFXAebWU47OcY4yQDg557r6OmpEhyIJIjMCJ9FLTclp46ayVeCEnX6ysn2bPEfQUhxXqHVQ3I9XUFA3DZ?purpose=fullsize"
+  },
+  {
+    "id": 52,
+    "name": "Johnson's Baby Soap",
+    "category": "Baby Care",
+    "image": "src/images/johnsonbabysoap.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Johnson's Baby Oil",
+    "category": "Baby Care",
+    "image": "https://images.openai.com/static-rsc-4/WQn4AQRafJQ4eVoJ4Z0JPdP5CoBJn5sJoSQOqYEkpMyAvvKSV6adgnPFvJ3eIyAOsxq8fDV07IX6uaFJrZvYVnJvEZbGiKZMf8l_ccOMAwD_jO4VWNxNDGrBZkT8WRfs-UTwg8WjAj8MioyNRz2ag7Z6AOnd5MvspwJbuatoWMi5LWzYxq8aLDWV_S24FmOs?purpose=fullsize"
+  }
+
+
+]
+
